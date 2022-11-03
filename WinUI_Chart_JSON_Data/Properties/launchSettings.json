@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUI_Chart_JSON_Data (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUI_Chart_JSON_Data (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
