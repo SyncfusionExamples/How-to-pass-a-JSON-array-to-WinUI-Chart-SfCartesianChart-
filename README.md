@@ -72,6 +72,6 @@ public class ViewModel
 
 ## Output:
 
-
+![WinUI column chart with JSON data](https://user-images.githubusercontent.com/53489303/199639335-7c8d3ebb-87e8-4861-aeab-4315804e5210.png)
 
 KB article - [How to pass a JSON array to WinUI Chart (SfCartesianChart)?]()
